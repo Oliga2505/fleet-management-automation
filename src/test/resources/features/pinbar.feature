@@ -15,7 +15,7 @@ Feature: Users learn how to use the pinbar
     #When the user logged in with username as "user50" and password as "UserUser123"
     And the user on the page "https://qa.fleetapps.io/"
     And the user can click on the message Learn how to use this space
-    Then the user should see 2 messages "How to Use Pinbar" and "Use pin icon on the right top corner of page to create  fast access link in the pinbar"
+    Then the user should see 2 messages "How To Use Pinbar" and "Use pin icon on the right top corner of page to create  fast access link in the pinbar"
 
 #
 #  @scenarioOutline
@@ -33,4 +33,4 @@ Feature: Users learn how to use the pinbar
     #When the user logged in with username as "user50" and password as "UserUser123"
     And the user on the page "https://qa.fleetapps.io/"
     And the user can click on the message Learn how to use this space
-    Then the user should see 2 image "How to Use Pinbar" and "Use pin icon on the right top corner of page to create  fast access link in the pinbar"
+    Then the user should see 2 image "How To Use Pinbar" and "Use pin icon on the right top corner of page to create  fast access link in the pinbar"
